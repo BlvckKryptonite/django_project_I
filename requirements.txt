@@ -1,0 +1,10 @@
+asgiref==3.9.1
+certifi==2025.7.14
+charset-normalizer==3.4.2
+colorama==0.4.6
+Django==4.2.24
+idna==3.10
+pyfiglet==1.0.3
+requests==2.32.4
+sqlparse==0.5.3
+urllib3==2.5.0
